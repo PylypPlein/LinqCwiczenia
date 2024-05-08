@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dk50URTZ0F68rUcmDmilaWUKYDiMYHS4vwzJG5dztRGXhffDOgs7VRuTfmqM6OFF5GpOiSDORQV7UQdwqCAMfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gosc9\\Desktop\\APBD7\\LinqTutorials\\LinqTutorials.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gosc9\\.nuget\\packages\\microsoft.netcore.platforms\\8.0.0-preview.7.23375.6\\microsoft.netcore.platforms.8.0.0-preview.7.23375.6.nupkg.sha512"
+  ],
+  "logs": []
+}

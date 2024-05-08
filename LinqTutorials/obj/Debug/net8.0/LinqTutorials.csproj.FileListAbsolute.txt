@@ -1,0 +1,15 @@
+C:\Programy\Programowanie\APBD\APBD7\LinqTutorials\bin\Debug\net8.0\LinqTutorials.exe
+C:\Programy\Programowanie\APBD\APBD7\LinqTutorials\bin\Debug\net8.0\LinqTutorials.deps.json
+C:\Programy\Programowanie\APBD\APBD7\LinqTutorials\bin\Debug\net8.0\LinqTutorials.runtimeconfig.json
+C:\Programy\Programowanie\APBD\APBD7\LinqTutorials\bin\Debug\net8.0\LinqTutorials.dll
+C:\Programy\Programowanie\APBD\APBD7\LinqTutorials\bin\Debug\net8.0\LinqTutorials.pdb
+C:\Programy\Programowanie\APBD\APBD7\LinqTutorials\obj\Debug\net8.0\LinqTutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programy\Programowanie\APBD\APBD7\LinqTutorials\obj\Debug\net8.0\LinqTutorials.AssemblyInfoInputs.cache
+C:\Programy\Programowanie\APBD\APBD7\LinqTutorials\obj\Debug\net8.0\LinqTutorials.AssemblyInfo.cs
+C:\Programy\Programowanie\APBD\APBD7\LinqTutorials\obj\Debug\net8.0\LinqTutorials.csproj.CoreCompileInputs.cache
+C:\Programy\Programowanie\APBD\APBD7\LinqTutorials\obj\Debug\net8.0\LinqTutorials.sourcelink.json
+C:\Programy\Programowanie\APBD\APBD7\LinqTutorials\obj\Debug\net8.0\LinqTutorials.dll
+C:\Programy\Programowanie\APBD\APBD7\LinqTutorials\obj\Debug\net8.0\refint\LinqTutorials.dll
+C:\Programy\Programowanie\APBD\APBD7\LinqTutorials\obj\Debug\net8.0\LinqTutorials.pdb
+C:\Programy\Programowanie\APBD\APBD7\LinqTutorials\obj\Debug\net8.0\LinqTutorials.genruntimeconfig.cache
+C:\Programy\Programowanie\APBD\APBD7\LinqTutorials\obj\Debug\net8.0\ref\LinqTutorials.dll
